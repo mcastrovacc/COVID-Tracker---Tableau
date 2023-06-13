@@ -10,4 +10,5 @@ Information about the number of people who hadn't been vaccinated;
 Visualization for COVID-19 vaccination per country and continent.
  
 
-* Dataset has been taken from https://ourworldindata.org/covid-vaccinations
+* Dataset has been taken from: https://ourworldindata.org/covid-vaccinations
+* Tableau Dashboard: https://drive.google.com/file/d/1Y93f7cSgLGxEdYFKnBLcpv1vuLmu9gHX/view?usp=share_link or https://public.tableau.com/app/profile/mara.castro/viz/COVIDvaccinetracker_16866837024220/COVIDVaccineTracker
